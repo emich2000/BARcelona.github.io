@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
+title:  "Bienvenido al FanPage de BARcelona!"
+date:   2020-10-10 00:00:00 +0300
 image:  11.jpg
 tags:   [Jekyll]
 ---
