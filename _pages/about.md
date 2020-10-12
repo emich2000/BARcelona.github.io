@@ -5,4 +5,6 @@ image: bar.png
 permalink: /acercade/
 ---
 
-My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Un gran bar con el aire de la ciudad española de Barcelona.
+Disfrute de sus mejores bebidas con la ambientación española.
+Tenemos espectaculos teatrales cada semana y diariamente hay un artista invitado. 
