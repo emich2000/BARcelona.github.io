@@ -5,12 +5,6 @@ date:   2020-10-10 00:00:00 +0300
 image:  bar.png
 tags:   [Bienvenida, Portal]
 ---
-Bienvenido al FanPage de nuestro establecimiento.
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Un gran bar con el aire de la ciudad española de Barcelona. 
-
-Disfrute de sus mejores bebidas con la ambientación española.
-
-Tenemos espectaculos teatrales cada semana y diariamente hay un artista invitado.
-
-<iframe width="721" height="406" src="https://www.youtube.com/embed/6DxX1DYHOlk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
