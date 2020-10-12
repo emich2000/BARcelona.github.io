@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contactos
-image: bar.png
+image: contactos.png
 permalink: /contacto/
 ---
 
