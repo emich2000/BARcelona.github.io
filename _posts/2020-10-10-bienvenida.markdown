@@ -2,7 +2,7 @@
 layout: post
 title:  "Bienvenido al FanPage de BARcelona!"
 date:   2020-10-10 00:00:00 +0300
-image:  bar.png
+image:  barcelona.png
 tags:   [Bienvenida, Portal]
 ---
 Bienvenido al FanPage de nuestro establecimiento.
