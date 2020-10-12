@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de...
-image: 08.jpg
+image: bar.jpg
 permalink: /acercade/
 ---
 
