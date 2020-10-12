@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de...
-image: bar.png
+image: barcelona.png
 permalink: /acercade/
 ---
 
