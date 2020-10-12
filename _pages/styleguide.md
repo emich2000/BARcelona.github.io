@@ -9,4 +9,4 @@ Si usted quiere hacer una reservación para usar el salón de eventos o presenta
 
 Whatsapp: +593999999999
 
-Correo: | bar@celona.com | bar.celona@gmail.com
+Correo: bar@celona.com / bar.celona@gmail.com
