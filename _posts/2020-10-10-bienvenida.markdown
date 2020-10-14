@@ -13,4 +13,4 @@ Disfrute de sus mejores bebidas con la ambientación española.
 
 Tenemos espectaculos teatrales cada semana y diariamente hay un artista invitado.
 
-No te olvides de dejar tus comentarios o sugerencias en: 
+No te olvides de dejar tus comentarios o sugerencias en: <a href="https://emich2000.github.io/BARcelona.github.io/cometarios/">Disqus</a>
